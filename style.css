@@ -2,6 +2,7 @@
 body{
     font-family: font-family: 'Raleway', sans-serif;
     font-size: 30px;
+    
 }
 
 .div-font {
@@ -25,18 +26,47 @@ body{
     section{
         display: flex;
         margin-bottom: 1px;
+        margin-top: 1px;
     }
 
-    .div-width{
+    .div1-width{
         width: 40%;
         padding-top: 8%;
         padding-left: 7%;
     }
 
-    #img-width{
+    #img1-width{
         width: 80%;
         height: auto;
         padding-top: 10%;
         padding-right:20%;
+    }
+
+    #img2-width{
+        width: 50%;
+        height:auto;
+        padding-top: 2%;
+        padding-left: 10%;
+
+    }
+
+    .div2-width{
+        width: 50%;
+        padding-top: 8%;
+        padding-left: 5%;
+        padding-right: 10%;
+        padding-bottom: 5%;
+
+    }
+
+    .mid-banner{
+
+        background-image: url(images/shapes/7.png);
+        background-repeat:no-repeat;
+        background-size:cover;
+        width: ;
+        height: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
     }
 
