@@ -1,7 +1,43 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+.div-font {
+    font-size: 20px;
+    font-weight: 500;
+    color:rgba(0, 0, 0, 0.5);
+        
+}
+
+
 .link-button {
     text-decoration: none;
-    background-color: coral;
-    padding: 10px 30px ;
-    border-radius: 8px;
-    
-}
+    background-image: linear-gradient(to right,#f5af19,#f12711);
+    color:ghostwhite;
+    margin:auto;
+    border: 0px solid white;
+    padding: 8px 30px ;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    }
+
+    section{
+        display: flex;
+    }
+
+    .half-width{
+        width: 50%;
+        padding-top: 10%;
+        padding-left: 10%;
+    }
+
+    #img-width{
+        width: 80%;
+        height: auto;
+        padding-top: 10%;
+        padding-right:20%;
+    }
+
