@@ -1,9 +1,9 @@
 
 body{
-    font-family: font-family: 'Raleway', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 30px;
-    
-}
+    margin: 0;
+    }
 
 .div-font {
     font-size: 25px;
@@ -70,3 +70,12 @@ body{
         margin-bottom: 5%;
     }
 
+    #div3-width{
+        padding-left: 40% ;
+        padding-right: 40%;
+
+    }
+    #div4-width{
+        padding-left: 20% ;
+        padding-right: 20%;
+    }
